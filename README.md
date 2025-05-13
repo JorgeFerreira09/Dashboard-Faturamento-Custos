@@ -1,4 +1,4 @@
-## Dashboard de Faturamento e Custos ##
+## Dashboard Financeiro de Faturamento e Custos ##
 <br/>
 :high_brightness: Sejam todos bem-vindos! :high_brightness: <br/><br/>
 
